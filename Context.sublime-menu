@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Hellooo",
+    "caption": "Hellooo",
+    "children": [
+      {
+        "caption": "Normal hello",
+        "command": "hellooo"
+      }
+    ]
+  }
+]
